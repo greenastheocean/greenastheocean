@@ -1,5 +1,5 @@
 - Hi, I’m Ingrid
-- I'm a Software Engineering student 
+- I'm a Software Engineer student 
 - I’m currently learning JavaScript
 - I love games, reading and drawing at my free time.
 
